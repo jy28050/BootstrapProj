@@ -1,0 +1,13 @@
+Bootstrap Site:
+
+1. Carousel- I used a carousel to advertise the drum sets.
+
+2. Modal- The popup dialogue appears after you click the "Order Now" button.
+
+3. Collapse- The content dialogue-box appears when you click on the "Pricing" button. 
+
+- Contact Us page has a bootstrap form, but it is not working. 
+
+- Buttons: As mentioned above- the "Order Now" and "Pricing" Buttons each do something. The "Shop" button on the nav bar also has a dropdown menu. I also have social media icons on the footer that just links to the respective page.  
+
+- The site stacks vertically once you go onto mobile. The nav bar also shrinks into the hamburger menu. 
